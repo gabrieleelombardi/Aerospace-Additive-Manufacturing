@@ -34,19 +34,19 @@ The work includes finite element analyses, topology optimization, PolyNURBS-base
 
 ### Structural analysis
 
-![Structural analysis](/figures/component_1.jpeg)
+![Structural analysis](figures/component1.jpeg)
 
 ### Topology optimized component
 
-![Topology optimized component](figures/component_2.jpeg)
+![Topology optimized component](figures/component2.jpeg)
 
 ### Experimental test
 
-![Experimental test](figures/component_2_test.jpeg)
+![Experimental test](figures/component2_test.jpeg)
 
 ### Aerospace support design
 
-![Aerospace support design](figures/component_3.jpeg)
+![Aerospace support design](figures/component3.jpeg)
 
 ## Authors
 
