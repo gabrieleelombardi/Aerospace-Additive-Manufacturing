@@ -34,7 +34,7 @@ The work includes finite element analyses, topology optimization, PolyNURBS-base
 
 ### Structural analysis
 
-![Structural analysis](figures/component_1.jpeg)
+![Structural analysis](/figures/component_1.jpeg)
 
 ### Topology optimized component
 
