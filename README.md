@@ -30,24 +30,6 @@ The work includes finite element analyses, topology optimization, PolyNURBS-base
 
 [Download the full PDF report](aerospace_additive_manufacturing_report.pdf)
 
-## Project highlights
-
-### Structural analysis
-
-![Structural analysis](figures/component1.jpeg)
-
-### Topology optimized component
-
-![Topology optimized component](figures/component2.jpeg)
-
-### Experimental test
-
-![Experimental test](figures/component2_test.jpeg)
-
-### Aerospace support design
-
-![Aerospace support design](figures/component3.jpeg)
-
 ## Authors
 
 - Alessandro Lami
